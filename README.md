@@ -1,4 +1,4 @@
-# Здравствуй! <img src="http://static.skaip.su/img/emoticons/180x180/f6fcff/hi.gif" width="25px">
+# Здравствуй! <img src="http://static.skaip.su/img/emoticons/180x180/f6fcff/hi.gif" width="35px">
 
 ### Меня зовут Андрей, и я фронтенд-разработчик
 
@@ -6,7 +6,7 @@
 * HTML/CSS
 * JavaScript
 
-📫Связаться со мной можно [telegram](https://telegram/Andrew Efimenko/), [мой сайт-портфолио](https://efimenkoandrey.github.io/rsschool-cv/)
+📫Связаться со мной можно [telegram](https://telegram.me/Andrew Efimenko), [мой сайт-портфолио](https://efimenkoandrey.github.io/rsschool-cv/)
 
 <!--
 **EfimenkoAndrey/EfimenkoAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
