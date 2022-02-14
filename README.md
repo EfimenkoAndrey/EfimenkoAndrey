@@ -6,7 +6,7 @@
 * HTML/CSS
 * JavaScript
 
-📫Связаться со мной можно [telegram](https://t.me/Andrew Efimenko/), [мой сайт-портфолио](https://efimenkoandrey.github.io/rsschool-cv/)
+📫Связаться со мной можно [telegram](https://telegram/@GreenMundir/), [мой сайт-портфолио](https://efimenkoandrey.github.io/rsschool-cv/)
 
 <!--
 **EfimenkoAndrey/EfimenkoAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
