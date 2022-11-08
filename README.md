@@ -5,7 +5,8 @@
 **Мой технологический стэк:**
 * HTML/CSS
 * JavaScript
-* [EsLint](https://eslint.org/)
+* !(![eslint](https://user-images.githubusercontent.com/76876016/200674817-1f908f22-4d1c-42c5-aabb-5975653d84af.png)
+)[EsLint](https://eslint.org/)
 * WebPack
 
 📫Связаться со мной можно [telegram](https://t.me/GreenMundir), [мой сайт-портфолио](https://efimenkoandrey.github.io/rsschool-cv/)
