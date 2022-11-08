@@ -5,7 +5,7 @@
 **Мой технологический стэк:**
 * HTML/CSS
 * JavaScript
-* !((https://eslint.org/)https://user-images.githubusercontent.com/76876016/200674817-1f908f22-4d1c-42c5-aabb-5975653d84af.png)
+* !(![eslint](https://user-images.githubusercontent.com/76876016/200675111-e7c32ac7-92cd-41ec-a7e6-d0c64c5496bc.png)
 )
 * WebPack
 
