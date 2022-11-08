@@ -3,10 +3,10 @@
 ### Меня зовут Андрей, и я фронтенд-разработчик
 
 **Мой технологический стэк:**
-*HTML/CSS
-*JavaScript
-*EsLint
-*WebPack
+* HTML/CSS
+* JavaScript
+* EsLint
+* WebPack
 📫Связаться со мной можно [telegram](https://t.me/GreenMundir), [мой сайт-портфолио](https://efimenkoandrey.github.io/rsschool-cv/)
 
 <!--
