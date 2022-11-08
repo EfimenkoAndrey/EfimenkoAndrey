@@ -7,6 +7,7 @@
 * JavaScript
 * EsLint
 * WebPack
+
 📫Связаться со мной можно [telegram](https://t.me/GreenMundir), [мой сайт-портфолио](https://efimenkoandrey.github.io/rsschool-cv/)
 
 <!--
