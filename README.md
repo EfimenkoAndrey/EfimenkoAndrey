@@ -8,7 +8,7 @@
 * Webpack
 * EsLint
 
-📫Связаться со мной можно [telegram](https://t.me/GreenMundir), [мой сайт-портфолио](https://efimenkoandrey.github.io/rsschool-cv/)
+📫Связаться со мной можно [telegram](https://t.me/GreenMundir)
 
 <!--
 **EfimenkoAndrey/EfimenkoAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
