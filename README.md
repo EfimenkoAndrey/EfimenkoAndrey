@@ -1,5 +1,5 @@
 # Здравствуй! <img src="http://static.skaip.su/img/emoticons/180x180/f6fcff/hi.gif" width="35px">
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
