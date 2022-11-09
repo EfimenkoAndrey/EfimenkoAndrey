@@ -1,9 +1,6 @@
 # Здравствуй! <img src="http://static.skaip.su/img/emoticons/180x180/f6fcff/hi.gif" width="35px">
 
 ### Меня зовут Андрей, и я фронтенд-разработчик
-<div id="header" align="center">
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-</div>
 **Мой технологический стэк:**
 * HTML/CSS
 * JavaScript
