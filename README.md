@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
-### Меня зовут Андрей, и я фронтенд-разработчик
+### Меня зовут Андрей, и я обучаюсь фронтенд-разработке
 **Мой технологический стэк:**
 * HTML/CSS
 * JavaScript
