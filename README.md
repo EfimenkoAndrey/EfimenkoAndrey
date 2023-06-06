@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
-### Меня зовут Андрей, и я обучаюсь фронтенд-разработке
-**Мой технологический стэк:**
+### Hello my name's Andrey, and I'm learning Front-end developing
+**My technological stack:**
 * HTML/CSS
 * JavaScript
 * Webpack
 * EsLint
 
-📫Связаться со мной можно [telegram](https://t.me/GreenMundir)
+📫You can contact me [telegram](https://t.me/GreenMundir)
 
 <!--
 **EfimenkoAndrey/EfimenkoAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
